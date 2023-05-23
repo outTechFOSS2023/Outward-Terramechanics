@@ -1,0 +1,7 @@
+Note: To run the scripts in this folder, after copying the folders on your local machine, please change the addresses to the addresses of your local machine.
+Scripts can be easily run by dragging YADE executable (either from te source code or routine installation) to a terminal and immidiately draging the 
+desired script after that (addresses should have been modified)
+
+
+The paradigm for the sample preparation for clumps of GRC-3 and GRC-3+LMA-1 has been provided for Triaxial tests.
+The same procedure can be followed for bed generation at different sizes and initial porosity. 
