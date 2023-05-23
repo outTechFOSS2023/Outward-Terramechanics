@@ -1,0 +1,19 @@
+#Copyright 2023 Blueshift, LLC
+#Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, #including without limitation the rights to use, copy, modify, merge, publish, #distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to #do so, subject to the following conditions:
+         #The Software is subject to all use, distribution, modification, sales, and other restrictions applicable to the software-as-a-service product specified in the Agreement.
+#The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+#THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY #CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR #IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+1- GCC_TGN=4000_12.5mm*12.5mm*125mm_Full PSD_One Side Collapse
+2- GCC_TGN=4000_12.5mm*12.5mm*125mm_Full PSD_One Side Collapse_Integrated WithDeposition
+3- GCC_TGN=4000_12.5mm*12.5mm*125mm_PSD Without Spheres_One Side Collapse
+4- GCC_TGN=4000_12.5mm*12.5mm*125mm_PSD Without Spheres_One Side Collapse_Integrated WithDeposition
+5- GCC_TGN=4000_15mm*15mm*Height_<Cutoff As Original Grains_Full Collapse
+6- GCC_TGN=4000_15mm*15mm*Height_<Cutoff As Original Grains_Full Collapse_Reduced Height
+7- GCC_TGN=4000_15mm*15mm*Height_<Cutoff As Original Grains_One Side Collapse
+8- GCC_TGN=4000_15mm*15mm*Height_<Cutoff As Original Grains_One Side Collapse_Reduced Height
+9- GCC_TGN=4000_15mm*15mm*Height_<Cutoff As Two Identical Touching Spheres_One Side Collapse
+10- GCC_TGN=4000_15mm*15mm*Height_<Cutoff As Two Non-Identical Touching Spheres_Full Collapse
+11- GCC_TGN=4000_15mm*15mm*Height_<Cutoff As Two Non-Identical Touching Spheres_One Side Collapse
+12- GCC_TGN=4000_15mm*15mm*Height_<Cutoff As Two Non-Identical Touching Spheres_One Side Collapse_Reduced Height
+13- GCC_TGN=7500_15mm*15mm*Height_<Cutoff As Two Identical Touching Spheres_One Side Collapse
